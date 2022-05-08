@@ -1,0 +1,22 @@
+{
+    "backend": "flask",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "sqlite",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "volt-dashboard",
+    "docker": "1",
+    "frontend": "",
+    "github_repo": "https://github.com/appseed-projects/216f3774-ad4c-4c7f-9f67-fac37977adad",
+    "heroku": "0",
+    "pattern": "mvc",
+    "pro": "0",
+    "task_id": "216f3774-ad4c-4c7f-9f67-fac37977adad",
+    "task_info": "Upload Sources [0%] - 470 files",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2022-05-08-14-58-28",
+    "task_ts_start": "2022-05-08-14-58-26"
+}
